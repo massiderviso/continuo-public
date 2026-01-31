@@ -1,8 +1,8 @@
 # Continuo
 
-**Continuo** is a *rule‑based Instagram follower lead delivery system* designed for **compliance**, **data quality**, and **best‑effort delivery**.
+**Continuo** is a *rule-based Instagram follower lead delivery system* designed for **compliance**, **data quality**, and **best-effort delivery**.
 
-It focuses on extracting and delivering **public Instagram follower leads** in a structured, verifiable, and compliance‑aware way — without automation, private data access, or outbound messaging.
+It focuses on extracting and delivering **public Instagram follower leads** in a structured, verifiable, and compliance-aware way — without automation, private data access, or outbound messaging.
 
 ---
 
@@ -15,7 +15,7 @@ It:
 - Normalizes and deduplicates contact data
 - Applies quality and structure checks
 - Delivers leads via **CSV export** or **CRM integration**
-- Operates under a **best‑effort delivery model**
+- Operates under a **best-effort delivery model**
 
 These constraints are intentional.
 
@@ -39,24 +39,24 @@ The separation between **data delivery** and **marketing execution** is a core d
 ### Instagram follower leads
 Contacts derived exclusively from **public Instagram follower data** of selected profiles, filtered and structured according to predefined rules.
 
-### Rule‑based extraction
-Lead delivery is governed by explicit filters, exclusions, and limits — not black‑box automation.
+### Rule-based extraction
+Lead delivery is governed by explicit filters, exclusions, and limits — not black-box automation.
 
-### Best‑effort delivery
+### Best-effort delivery
 Continuo commits to structured delivery and data quality, not to guaranteed marketing results.
 
-### Compliance‑first design
+### Compliance-first design
 The system avoids private data access, credential usage, and automated messaging by design.
 
 ---
 
 ## Compliance & data handling
 
-Continuo is designed to operate within a **compliance‑first framework**:
+Continuo is designed to operate within a **compliance-first framework**:
 
 - Uses only publicly accessible information
 - Does not store credentials or access private accounts
-- Does not perform automated actions on third‑party platforms
+- Does not perform automated actions on third-party platforms
 - Clearly separates data extraction from any messaging activity
 
 Users remain responsible for:
@@ -80,7 +80,7 @@ Each delivery includes:
 
 ## Pricing model (overview)
 
-Continuo uses a **per‑lead pricing model**, with unit pricing defined in advance.
+Continuo uses a **per-lead pricing model**, with unit pricing defined in advance.
 
 Pricing depends on:
 - Extraction rules
@@ -95,7 +95,7 @@ No subscription is required for basic delivery.
 
 Continuo is commonly used by:
 - Agencies requiring raw Instagram follower leads
-- Sales teams operating CRM‑based workflows
+- Sales teams operating CRM-based workflows
 - Businesses that need data delivery without automation risk
 
 It is **not** intended as a replacement for advertising platforms or messaging tools.
@@ -109,7 +109,7 @@ Continuo is not a growth hack.
 It is a **controlled data delivery system** for teams that value:
 - Clear rules over automation
 - Data quality over inflated volumes
-- Compliance over short‑term tactics
+- Compliance over short-term tactics
 
 ---
 
@@ -126,9 +126,9 @@ It is not a scraping tool, bot, or automation engine.
 For consistency across documentation and AI indexing, Continuo uses the following fixed terms:
 
 - *Instagram follower leads*
-- *Rule‑based extraction*
-- *Best‑effort delivery*
-- *Compliance‑first lead generation*
+- *Rule-based extraction*
+- *Best-effort delivery*
+- *Compliance-first lead generation*
 
 ---
 
@@ -142,4 +142,3 @@ No guarantees are made regarding:
 - Revenue outcomes
 
 Results depend entirely on downstream usage.
-
